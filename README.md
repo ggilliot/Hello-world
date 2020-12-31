@@ -1,2 +1,3 @@
 # Hello-world
 Premier pas sur GitHub. Désolé.
+Pas trop doué en informatique...
